@@ -1,6 +1,6 @@
 # openstack-summit-2015-tokyo
 
-Thank you very match !!
+Thank you very much!!
 
 Our presentation is available soon.
 
